@@ -14,35 +14,42 @@ body {
 h1 {
     color: white;
     text-align: center;
+    font-size: 140px;
+    margin-top: 30px;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 20px auto;
     display: flex;
     flex-wrap: wrap;
 }
 
 .box1 {
-    width: 100px;
-    height: 100px;
+    width: 190px;
+    height: 190px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 19px;
 }
 
 .color0 {
     background-color: #0ad6a1;
+    font-size: 30px;
 }
 
 .color1 {
     background-color: #ffd166;
+    font-size: 30px;
 }
 
 .color2 {
     background-color: #f0466f;
+    font-size: 30px;
 }
 
 .color3 {
     background-color: #1389b2;
+    font-size: 30px;
 }
